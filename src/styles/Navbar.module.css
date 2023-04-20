@@ -1,0 +1,22 @@
+.my_navbar {
+  height: 70px;
+  background-color: white;
+}
+
+.btn_menu {
+  font-size: 20px;
+}
+
+.logo {
+  font-size: 34px;
+  font-weight: 600;
+}
+
+.btn_cart {
+  background-color: black;
+  color: white;
+}
+
+.btn_cart:hover {
+  background-color: rgb(92, 92, 92);
+}

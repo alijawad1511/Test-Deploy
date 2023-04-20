@@ -1,0 +1,49 @@
+.title {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.landing_content {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.search_field {
+  padding: 8px 16px;
+  background-color: white;
+}
+
+.search_field input {
+  width: 460px;
+  height: 40px;
+  border: none;
+  outline: none;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.search_field i {
+  font-size: 22px;
+}
+
+.btn_search {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-weight: 600;
+  border: none;
+  outline: none;
+}
+
+.btn_search,
+.btn_search:hover,
+.btn_search:visited {
+  text-decoration: none;
+}
+
+.btn_search:hover {
+  background-color: rgb(92, 92, 92);
+}
