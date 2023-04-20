@@ -14,7 +14,7 @@ function App() {
     <>
       <Router basename='/Test-Deploy'>
         <Routes>
-          <Route path='/' element={<HomeScreen />} />
+          <Route path='/Test-Deploy' element={<HomeScreen />} />
           <Route path='/foods' element={<SecondScreen />} />
         </Routes>
       </Router>
